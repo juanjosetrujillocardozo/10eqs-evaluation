@@ -3,12 +3,14 @@
 ## Project Overview
 
 This project helps a small business owner track their product pricing against market conditions. The tool processes product data, integrates market data from an external source, and generates actionable insights.
+
 ## Setup Instructions
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/juanjosetrujillocardozo/10eqs-evaluation
    cd 10eqs-evaluation
+
 2. **Install dependencies**:  
    Make sure you have Python installed (version 3.7 or higher). Then, run:  
    ```bash
